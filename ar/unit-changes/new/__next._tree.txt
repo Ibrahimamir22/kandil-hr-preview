@@ -1,0 +1,6 @@
+:HL["/kandil-hr-preview/_next/static/css/011593a8733dba78.css","style"]
+:HL["/kandil-hr-preview/_next/static/css/c6b5aabc8e434bcb.css","style"]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":{"n":"page","t":"oc","k":"unit-changes/new","s":[]},"h":96,"c":"$Q3"}]]
+1:[["children",{"s":{"n":"locale","t":"d","k":"ar","s":["_not-found","_global-error"]},"h":112,"c":"$Q2"}]]
+0:{"b":"bWak2O9VbBXqCbSnU_tAY","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
